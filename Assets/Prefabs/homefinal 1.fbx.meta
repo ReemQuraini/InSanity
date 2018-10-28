@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: d23792a3894ad984f92449bbc08696da
+timeCreated: 1472910996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basement
+    100002: bathroom
+    100004: Bed_Room1
+    100006: Door1
+    100008: Door2
+    100010: Door3
+    100012: Door4
+    100014: doors
+    100016: down
+    100018: foq
+    100020: foq 1
+    100022: foq 2
+    100024: glass
+    100026: //RootNode
+    100028: kitchen
+    100030: living_room
+    100032: med
+    100034: mn_bara
+    100036: mn_jwa
+    100038: t7t
+    100040: t7t 1
+    100042: t7t 2
+    100044: up
+    100046: Window
+    400000: basement
+    400002: bathroom
+    400004: Bed_Room1
+    400006: Door1
+    400008: Door2
+    400010: Door3
+    400012: Door4
+    400014: doors
+    400016: down
+    400018: foq
+    400020: foq 1
+    400022: foq 2
+    400024: glass
+    400026: //RootNode
+    400028: kitchen
+    400030: living_room
+    400032: med
+    400034: mn_bara
+    400036: mn_jwa
+    400038: t7t
+    400040: t7t 1
+    400042: t7t 2
+    400044: up
+    400046: Window
+    2300000: basement
+    2300002: bathroom
+    2300004: Bed_Room1
+    2300006: Door1
+    2300008: Door2
+    2300010: Door3
+    2300012: Door4
+    2300014: foq
+    2300016: foq 1
+    2300018: foq 2
+    2300020: glass
+    2300022: kitchen
+    2300024: living_room
+    2300026: mn_bara
+    2300028: t7t
+    2300030: t7t 1
+    2300032: t7t 2
+    2300034: Window
+    3300000: basement
+    3300002: bathroom
+    3300004: Bed_Room1
+    3300006: Door1
+    3300008: Door2
+    3300010: Door3
+    3300012: Door4
+    3300014: foq
+    3300016: foq 1
+    3300018: foq 2
+    3300020: glass
+    3300022: kitchen
+    3300024: living_room
+    3300026: mn_bara
+    3300028: t7t
+    3300030: t7t 1
+    3300032: t7t 2
+    3300034: Window
+    4300000: mn_bara
+    4300002: glass
+    4300004: kitchen
+    4300006: bathroom
+    4300008: living_room
+    4300010: basement
+    4300012: Bed_Room1
+    4300014: foq
+    4300016: t7t
+    4300018: foq
+    4300020: t7t
+    4300022: foq
+    4300024: t7t
+    4300026: Window
+    4300028: Door1
+    4300030: Door2
+    4300032: Door3
+    4300034: Door4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
